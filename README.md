@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **MehrdadKianiOsh/MehrdadKianiOsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Mehrdad Kiani </h1>
-<h3 align="center"> Graduated in computatinal science and Mechanial enginering and advancing my skills in a data science. </h3>
+<h3 align="center"> Graduated in Computatinal Science (CS) and Mechanial Enginering (ME) and advancing my skills in a data science and engineering. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MehrdadKianiOsh&label=Profile%20views&color=0e75b6&style=flat" alt="MehrdadKianiOsh" /> </p>
 
