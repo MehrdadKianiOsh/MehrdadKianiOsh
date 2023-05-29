@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MehrdadKianiOsh" alt="MehrdadKianiOsh" /></a> </p> -->
 
-- 📫 How to reach me **Mehrdad.Kiani.Oshtorjani@gmail.com**
+- 📫 How to reach me: **Mehrdad.Kiani.Oshtorjani@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1BeBn2byRg5IadirGu5E5olJyP1GT6gWE/view?usp=sharing](https://drive.google.com/drive/folders/13cPD4Nin-_weJsGHZsyc-GPpOwiBFfJc?usp=sharing) -->
 
