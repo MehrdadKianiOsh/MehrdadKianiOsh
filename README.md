@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center"> Mehrdad Kiani </h1>
 <h3 align="center"> Graduated in Computatinal Science and doing Ph.D. in Mechanial Enginering at Swiss Federal Institute of Technology in Lausanne (EPFL). Advancing my skills in data science and engineering. </h3>
 
