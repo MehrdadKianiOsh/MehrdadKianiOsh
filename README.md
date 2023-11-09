@@ -1,5 +1,5 @@
 <h1 align="center"> Mehrdad Kiani </h1>
-<h3 align="center"> I have completed my degree in Computational Science from Swiss Federal Institute of Technology in Lausanne (EPFL) and am currently pursuing a Ph.D. in Mechanical Engineering at EPFL. I'm further enhancing my proficiency in data science and engineering. </h3>
+<h3 align="center"> I have completed my M.Sc. degree in Computational Science from Swiss Federal Institute of Technology in Lausanne (EPFL) and am currently pursuing a Ph.D. in Mechanical Engineering at EPFL. I'm further enhancing my proficiency in data science and engineering. </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MehrdadKianiOsh&label=Profile%20views&color=0e75b6&style=flat" alt="MehrdadKianiOsh" /> </p>
 
